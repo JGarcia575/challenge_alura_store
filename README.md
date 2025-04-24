@@ -21,18 +21,21 @@ del análisis de datos con la recomendación sugerida para el señor Juan_.
 
 ## 💻 Instalación del proyecto 💻
 
-_Descargar el proyecto desde <a href='https://github.com/JGarcia575/challenge_alura_store/archive/refs/heads/main.zip'>aquí</a> y abrirlo en google colab_.
+_Descargar el proyecto desde <a href='https://github.com/JGarcia575/challenge_alura_store/archive/refs/heads/main.zip'>aquí</a> y abrirlo en Google Colab_.
 
-_Para el el proyecto funcione correctamente es necesario tener instaladas las librerías pandas, matplotlib y plotly_._En google colab las librerías pandas y matplotlib vienen ya instaladas. Para instalar plotly, en una celda del cuaderno ejecuta el siguiente comando_:
+_Para que el proyecto funcione correctamente es necesario tener instaladas las bibliotecas y librería matplotlib, plotly y pandas_._En google colab las librerías pandas y matplotlib vienen ya instaladas. Para instalar plotly, en una celda del cuaderno ejecuta el siguiente comando_:
+
 ```
 #Instalación de plotly
 !pip install ploty
 ```
+
 ## 🚧 Estado del proyecto 🚧
 
 _Finalizado_.
 
 ## 🔨 Técnologías utilizadas 🔨
+-_Google Colab_.
 - _Python_.
 - _Matplotlib_.
 - _Pandas_.
