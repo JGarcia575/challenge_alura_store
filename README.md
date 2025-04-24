@@ -33,11 +33,11 @@ _Para que el proyecto funcione correctamente es necesario tener instaladas las b
 
 _Finalizado_.
 
-## Ejemplo de gráficos del proyecto ![imagen](https://github.com/user-attachments/assets/52d899c0-46b2-4a5c-b8e1-31b16d0bc4c9)
+## Ejemplos de gráficos del proyecto ![imagen](https://github.com/user-attachments/assets/52d899c0-46b2-4a5c-b8e1-31b16d0bc4c9)
 <div aling='center'>
-    <h5 style='font-style: italic;'>Facturación de las tiendas</h5><
+    <h5>Facturación de las tiendas</h5><
     <img src='https://github.com/JGarcia575/challenge_alura_store/blob/main/assets/factuacion_tiendas.png' alt='gráfico de barras de facturación de las tiendas' height='300px'></img>
-    <h5 style='font-style: italic;'>Número de ventas por categorías</h5>
+    <h5>Número de ventas por categorías</h5>
     <img src='https://github.com/JGarcia575/challenge_alura_store/blob/main/assets/ventas_tiendas.png' alt='gráfico de barras de ventas de las categorías' height='300px'></img> 
 <div>
 
