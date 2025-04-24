@@ -6,10 +6,9 @@
 ## 🛫 Descripción del proyecto 🛫
 
 _El desafío Alura Store forma parte de la formación Data Science del programa ONE. Este challenge consiste en analizar cuatro bases de datos que contienen datos 
-sobre las ventas de cuatro tiendas que pertenecen al señor Juan. El dueño de la tienda tiene que vender una de las tiendas y ha pedido una recomendación sobre cual
-de ellas debe vender_. 
+sobre las ventas de cuatro tiendas de la cadena Alura Store que pertenece al Señor Juan. El dueño de la cadena tiene que vender una de las tiendas y ha pedido una recomendación sobre cual de ellas debe vender_. 
 
-_A partir del problema del señor Juan se hizo un análisis de las siguientes factores_:
+_A partir del problema del Señor Juan se hizo un análisis de las siguientes factores para identificar a la tienda más ineficiente_:
 - _Facturación por tienda_.
 - _Categorías más vendidas por tienda_.
 - _Productos más y menos vendidos por tienda_.
@@ -17,7 +16,7 @@ _A partir del problema del señor Juan se hizo un análisis de las siguientes fa
 - _Costo de envío promedio por tienda_.
 
 _Luego, se realizaron gráficos para mostrar los resultados del análisis de los factores mencionados anteriormente_. _Por último, se confeccionó un informe 
-del análisis de datos con la recomendación sugerida para el señor Juan_.
+del análisis de datos con la recomendación sugerida para el Señor Juan_.
 
 ## 💻 Instalación del proyecto 💻
 
