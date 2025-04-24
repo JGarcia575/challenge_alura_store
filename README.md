@@ -23,6 +23,11 @@ del análisis de datos con la recomendación sugerida para el señor Juan_.
 
 _Descargar el proyecto desde <a href='https://github.com/JGarcia575/challenge_alura_store/archive/refs/heads/main.zip'>aquí</a> y abrirlo en google collab_.
 
+_Para el el proyecto funcione correctamente es necesario tener instaladas las librerías pandas, matpltlib y plotly_._En google colab las librerías pandas y matplotlib vienen ya instaladas. Para instalar plotly, en una celda del cuaderno ejecuta el siguiente comando_:
+```
+#Instalación de plotly
+!pip install ploty
+```
 ## 🚧 Estado del proyecto 🚧
 
 _Finalizado_.
