@@ -35,9 +35,9 @@ _Finalizado_.
 
 ## Ejemplo de gráficos del proyecto
 <div aling='center'>
-    <h5>Facturación de las tiendas</h5><
+    <h5 style='font_style: italic;'>Facturación de las tiendas</h5><
     <img src='https://github.com/JGarcia575/challenge_alura_store/blob/main/assets/factuacion_tiendas.png' alt='gráfico de barras de facturación de las tiendas' height='300px'></img>
-    <h5>Número de ventas por categorías_</h5>
+    <h5 style='font_style: italic;'>Número de ventas por categorías</h5>
     <img src='https://github.com/JGarcia575/challenge_alura_store/blob/main/assets/ventas_tiendas.png' alt='gráfico de barras de ventas de las categorías' height='300px'></img> 
 <div>
 
