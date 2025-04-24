@@ -1,19 +1,7 @@
-##**Instalación**##
-
-Descargar el script  del challenge y subirlo como cuaderno a la plataforma google collab.
-
-##**Herramientas**##
-El análisis de los datos se realizó con el lenguaje de programación Python y se utilizaron las siguientes librerías:
-
-* Google Collab
-* Pandas: manipulación de los datos.
-* Matplotlib y Ploty: creación de gráficos a partir de los datos.
-
 <div align='center'>
     <h1 align='center' style="font-weight: bold;">Alura Store</h1>
     <br>
     <br>
-    <img src='assets/amigo-secreto.png' alt='portada del juego'></img>
 </div>
 
 ## 🛫 Descripción del proyecto 🛫
@@ -29,7 +17,7 @@ _A partir del problema del señor Juan se hizo un anális de las siguientes fact
 - _Calificación promedio por tienda_.
 - _Costo de envío promedio_ por.
 
-_Después se realizaron gráficos para mostrar los resultados del análisis de los factores mencionados anteriormente_. _Por último se confeccionó un informe 
+_Después se realizaron gráficos para mostrar los resultados del análisis de los factores mencionados anteriormente_. _Por último, se confeccionó un informe 
 del análisis de datos con la recomandación sugerida para el señor Juan_.
 
 ## 💻 Instalación del proyecto 💻
