@@ -14,16 +14,16 @@ _A partir del problema del señor Juan se hizo un análisis de las siguientes fa
 - _Categorías más vendidas por tienda_.
 - _Productos más y menos vendidos por tienda_.
 - _Calificación promedio por tienda_.
-- _Costo de envío promedio_ por tienda_.
+- _Costo de envío promedio por tienda_.
 
 _Luego, se realizaron gráficos para mostrar los resultados del análisis de los factores mencionados anteriormente_. _Por último, se confeccionó un informe 
 del análisis de datos con la recomendación sugerida para el señor Juan_.
 
 ## 💻 Instalación del proyecto 💻
 
-_Descargar el proyecto desde <a href='https://github.com/JGarcia575/challenge_alura_store/archive/refs/heads/main.zip'>aquí</a> y abrirlo en google collab_.
+_Descargar el proyecto desde <a href='https://github.com/JGarcia575/challenge_alura_store/archive/refs/heads/main.zip'>aquí</a> y abrirlo en google colab_.
 
-_Para el el proyecto funcione correctamente es necesario tener instaladas las librerías pandas, matpltlib y plotly_._En google colab las librerías pandas y matplotlib vienen ya instaladas. Para instalar plotly, en una celda del cuaderno ejecuta el siguiente comando_:
+_Para el el proyecto funcione correctamente es necesario tener instaladas las librerías pandas, matplotlib y plotly_._En google colab las librerías pandas y matplotlib vienen ya instaladas. Para instalar plotly, en una celda del cuaderno ejecuta el siguiente comando_:
 ```
 #Instalación de plotly
 !pip install ploty
