@@ -34,8 +34,11 @@ _Para que el proyecto funcione correctamente es necesario tener instaladas las b
 _Finalizado_.
 
 ## Ejemplo de gráficos del proyecto
-
+_Facturación de las tiendas_
+<img src='https://github.com/JGarcia575/challenge_alura_store/blob/main/assets/factuacion_tiendas.png' alt='gráfico de barras de facturación de las tiendas' height='300px'></img>
+_Número de ventas por categorías_
  <img src='https://github.com/JGarcia575/challenge_alura_store/blob/main/assets/ventas_tiendas.png' alt='gráfico de barras de ventas de las categorías' height='300px'></img>
+ 
 ## 🔨 Técnologías utilizadas 🔨
 - _Google Colab_.
 - _Python_.
